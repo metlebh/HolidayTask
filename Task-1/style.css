@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+background-color: bisque;
+display: inline-block;
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: bbb;
+    border: solid 3px rgb(26, 11, 109) ;
+    display: inline-block;
+    margin-top: 30px;
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: bbb;
+    border: solid 3px #30b7d9; 
+    display: inline-block;
+    margin-top: 1px;
+
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: bbb;
+    border: solid 3px #1124ced7; 
+    display: inline-block;
+}
+.div4{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: bbb;
+    border: solid 3px #30b7d9; 
+    display: inline-block;
+}
+.div5{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: bbb;
+    border: solid 3px #092a97; 
+    display: inline-block;
+}
+
+.facebook{
+    color: rgb(26, 11, 109);
+    margin-left: 15px;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+.twitter{
+    color: #30b7d9;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.instagram{
+    color: #1124ced7;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.linkedin{
+    color: #30b7d9;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+.user{
+    color: #092a97;
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 23px;
+    margin-bottom: 10px;
+
+}
